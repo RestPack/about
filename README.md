@@ -10,7 +10,15 @@ Project Service Timeline:
  * **user.service** (in progress) : https://github.com/RESTpack/user.service
  * **user.client** (in progress) : https://github.com/RESTpack/user.client
  * authentication.web
- * groups.service
- * activities.service
+ * group.service
+ * activity.service
+ * permission.service
+ * document.service
+ * quota.service
+ * statistics.service
+ * classifieds.service
+ * notifications.service
+ * billing.service
+ * ... and lots more
 
 
