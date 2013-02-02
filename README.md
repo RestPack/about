@@ -1,4 +1,4 @@
-# RESTful Services
+# RESTpack Services
 
 This will become a rich set of simple and targeted open source RESTful services and related gems. Using these services in your own applications will allow you to focus on your core functionality, not have to worry about the usual application plumbing such as authentication, users profiles, groups, logging, activity streams etc...
 
@@ -6,7 +6,7 @@ This project is in it's early days. We're currently in the process of extracting
 
 Project Service Timeline:
 
- * **core.service** (in progress) : https://github.com/RESTful/core.service
+ * **core.service** (in progress) : https://github.com/RESTpack/core.service
  * users.service
  * authentication.web
  * groups.service
