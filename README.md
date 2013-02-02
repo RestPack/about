@@ -7,7 +7,8 @@ This project is in it's early days. We're currently in the process of extracting
 Project Service Timeline:
 
  * **core.service** (in progress) : https://github.com/RESTpack/core.service
- * users.service
+ * **user.service** (in progress) : https://github.com/RESTpack/user.service
+ * **user.client** (in progress) : https://github.com/RESTpack/user.client
  * authentication.web
  * groups.service
  * activities.service
