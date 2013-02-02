@@ -21,5 +21,5 @@ Project Service Timeline:
  * billing.service
  * ... and lots more
 
-Follow us on twitter: @RESTpack
+Follow us on twitter: https://twitter.com/RESTpack
 
