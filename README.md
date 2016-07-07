@@ -1,5 +1,9 @@
 # About RestPack
 
+## NOTE: This is out of date, the RestPack Services below are not in active development.
+
+---
+
 RestPack will become a rich set of simple and targeted open source RESTful services and related gems. Using these services in your own applications will allow you to focus on your core functionality, not having to worry about the usual application plumbing such as authentication, users profiles, groups, logging, activity streams etc...
 
 Individual services are implemented as gems which can either be used locally with a PostgreSQL database or remotely over a [jsonapi.org](http://jsonapi.org/) REST interface. 
